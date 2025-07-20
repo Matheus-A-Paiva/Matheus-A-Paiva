@@ -10,6 +10,10 @@
 
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -37,6 +41,9 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/xUnit.NET-5E2B97?style=for-the-badge&logo=.net&logoColor=white" height="40" alt="xunit badge" />
+  <img width="12" />
 </div>
 
 ###
